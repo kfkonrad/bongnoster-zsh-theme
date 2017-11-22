@@ -1,4 +1,4 @@
-# agnoster.zsh-theme
+# bongnoster.zsh-theme
 
 A ZSH theme optimized for people who use:
 
