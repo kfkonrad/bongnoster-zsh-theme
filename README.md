@@ -8,6 +8,8 @@ A ZSH theme optimized for people who use:
 
 For Mac users, I highly recommend iTerm 2 + Solarized Dark
 
+# Installation
+To install bongnoster, download bongnoster.zsh-theme and move it to `~/.oh-my-zsh/custom/themes`. You might need to create that directory first.
 # Compatibility
 
 **NOTE:** In all likelihood, you will need to install a [Powerline-patched font](https://github.com/Lokaltog/powerline-fonts) for this theme to render correctly.
